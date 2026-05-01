@@ -12,7 +12,7 @@ Ik werk als content beheerder bij [EXIT Toys](https://exittoys.nl), waar ik prod
 
 ## 🛠️ Stack
 
-`Next.js` · `TypeScript` · `Python` · `PostgreSQL` · `Vercel` · `GitHub Actions` · `Shopify Liquid` · `Ollama` 
+`Next.js` · `TypeScript` · `Python` · `PostgreSQL` · `Vercel` · `GitHub Actions` · `Shopify Liquid` · `Ollama` · `Swift` · `HTML`
 
 ## 🌐 Vind me hier
 
@@ -36,7 +36,7 @@ I work as content manager at [EXIT Toys](https://exittoys.nl), managing product 
 
 ## 🛠️ Stack
 
-`Next.js` · `TypeScript` · `Python` · `PostgreSQL`· `Vercel` · `GitHub Actions` · `Shopify Liquid` · `Ollama`
+`Next.js` · `TypeScript` · `Python` · `PostgreSQL` · `Vercel` · `GitHub Actions` · `Shopify Liquid` · `Ollama` · `Swift` · `HTML`
 
 ## 🌐 Find me here
 
