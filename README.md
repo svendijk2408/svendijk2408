@@ -8,7 +8,7 @@ Samen met mijn zus Lisa run ik [Beocca](https://beocca.com), een klein familieme
 
 ## ⚽️ EXIT Toys
 
-Ik werk als content beheerder bij [EXIT Toys](https://exittoys.nl), waar ik productcontent beheer over zo'n 24 Europese marketplaces via ChannelEngine. Daarnaast houd ik me bezig met onder andere een marketing KPI dashboard, SEO en de AI chatbot op CM.com HALO.
+Ik werk als content beheerder bij [EXIT Toys](https://exittoys.nl), waar ik productcontent beheer over zo'n 35 Europese marketplaces via ChannelEngine. Daarnaast houd ik me bezig met onder andere een marketing KPI dashboard, SEO en de AI chatbot op CM.com HALO.
 
 ## 🛠️ Stack
 
@@ -32,7 +32,7 @@ Together with my sister Lisa I run [Beocca](https://beocca.com), a small family 
 
 ## ⚽️ EXIT Toys
 
-I work as content manager at [EXIT Toys](https://exittoys.nl), managing product content across roughly 24 European marketplaces through ChannelEngine. Alongside that I work on things like a marketing KPI dashboard, SEO, and the AI chatbot on CM.com HALO.
+I work as content manager at [EXIT Toys](https://exittoys.nl), managing product content across roughly 35 European marketplaces through ChannelEngine. Alongside that I work on things like a marketing KPI dashboard, SEO, and the AI chatbot on CM.com HALO.
 
 ## 🛠️ Stack
 
