@@ -6,7 +6,7 @@ IBA-student aan de Radboud Universiteit, woon in Doetinchem, en daarnaast actief
 
 Samen met mijn zus Lisa run ik [Beocca](https://beocca.com), een klein familiemerk in handgemaakte leren tassen en accessoires. Alles is met de hand gemaakt van plantaardig gelooid volnerf leer, bedoeld om jaren mee te gaan. We verkopen via onze eigen Shopify-shop, Bol.com, Amazon (NL/DE/FR) en Etsy.
 
-## 🧸 EXIT Toys
+## ⚽️ EXIT Toys
 
 Ik werk als content beheerder bij [EXIT Toys](https://exittoys.nl), waar ik productcontent beheer over zo'n 24 Europese marketplaces via ChannelEngine. Daarnaast houd ik me bezig met onder andere een marketing KPI dashboard, SEO en de AI chatbot op CM.com HALO.
 
@@ -30,7 +30,7 @@ IBA student at Radboud University, based in Doetinchem, and on the side active i
 
 Together with my sister Lisa I run [Beocca](https://beocca.com), a small family brand of handcrafted leather bags and accessories. Everything is hand made from vegetable tanned full grain leather, meant to last for years. We sell through our own Shopify store, Bol.com, Amazon (NL/DE/FR) and Etsy.
 
-## 🧸 EXIT Toys
+## ⚽️ EXIT Toys
 
 I work as content manager at [EXIT Toys](https://exittoys.nl), managing product content across roughly 24 European marketplaces through ChannelEngine. Alongside that I work on things like a marketing KPI dashboard, SEO, and the AI chatbot on CM.com HALO.
 
