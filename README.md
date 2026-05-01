@@ -46,4 +46,4 @@ I work as content manager at [EXIT Toys](https://exittoys.nl), managing product 
 
 ---
 
-<sub>📍 Doetinchem, NL · 🎓 IBA @ Radboud · 🎒Eigenaar @ [Beocca](https://beocca.com) · ⚽️contentbeheerder webshop @ [EXIT Toys](https://exittoys.nl) / Dutchtoysgroup</sub>
+<sub>📍 Doetinchem, NL · 🎓 IBA @ Radboud · 🎒Eigenaar @ [Beocca](https://beocca.com) · ⚽️ contentbeheerder webshop @ [EXIT Toys](https://exittoys.nl) / Dutchtoysgroup</sub>
