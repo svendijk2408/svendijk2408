@@ -1,20 +1,18 @@
-# Hey, ik ben Sven 👋
+# Sven Dijk
 
-IBA-student aan de Radboud Universiteit, woon in Doetinchem, en daarnaast actief in twee hele verschillende werelden in e-commerce. Zelf schrijf ik geen code, maar met Claude Code als sidekick lukt het me tegenwoordig best om dingen te bouwen.
+IBA-student aan de Radboud Universiteit, woonachtig in Doetinchem. Ik combineer mijn studie met werk in twee e-commerce bedrijven en bouw daarvoor interne tools en automatiseringen.
 
-## 🛍️ Beocca
+## Beocca
 
-Samen met mijn zus Lisa run ik [Beocca](https://beocca.com), een klein familiemerk in handgemaakte leren tassen en accessoires. Alles is met de hand gemaakt van plantaardig gelooid volnerf leer, bedoeld om jaren mee te gaan. We verkopen via onze eigen Shopify-shop, Bol.com, Amazon (NL/DE/FR) en Etsy.
+Mede-eigenaar van [Beocca](https://beocca.com), een familiemerk in handgemaakte leren tassen en accessoires dat ik samen met mijn zus Lisa run. Alles wordt met de hand gemaakt van plantaardig gelooid volnerf leer. We verkopen via onze eigen Shopify-shop, Bol.com, Amazon (NL/DE/FR) en Etsy.
 
-## ⚽️ EXIT Toys
+## EXIT Toys
 
-Ik werk als content beheerder bij [EXIT Toys](https://exittoys.nl), waar ik productcontent beheer over zo'n 35 Europese marketplaces via ChannelEngine. Daarnaast houd ik me bezig met onder andere een marketing KPI dashboard, SEO en de AI chatbot op CM.com HALO.
+Content manager bij [EXIT Toys](https://exittoys.nl), waar ik de productcontent beheer over circa 35 Europese marketplaces via ChannelEngine. Daarnaast werk ik onder andere aan een intern marketing KPI dashboard, SEO, en de AI chatbot op CM.com HALO.
 
-## 🛠️ Stack
+## Stack
 
-`Next.js` · `TypeScript` · `Python` · `PostgreSQL` · `Vercel` · `GitHub Actions` · `Shopify Liquid` · `Ollama` · `Swift` · `HTML`
-
-## 🌐 Vind me hier
+`Next.js` · `TypeScript` · `Python` · `PostgreSQL` · `Vercel` · `GitHub Actions` · `Shopify Liquid` · `Ollama` · `Swift`
 
 [![Beocca](https://img.shields.io/badge/Shop-beocca.com-B79A6A?style=for-the-badge)](https://beocca.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sven--dijk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sven-dijk)
@@ -22,23 +20,21 @@ Ik werk als content beheerder bij [EXIT Toys](https://exittoys.nl), waar ik prod
 
 ---
 
-# Hey, I'm Sven 👋
+# Sven Dijk
 
-IBA student at Radboud University, based in Doetinchem, and on the side active in two pretty different worlds in e-commerce. I don't really write code myself, but with Claude Code as my sidekick I manage to build things these days.
+IBA student at Radboud University, based in Doetinchem. I split my time between two e-commerce businesses and build internal tools and automation to support them.
 
-## 🛍️ Beocca
+## Beocca
 
-Together with my sister Lisa I run [Beocca](https://beocca.com), a small family brand of handcrafted leather bags and accessories. Everything is hand made from vegetable tanned full grain leather, meant to last for years. We sell through our own Shopify store, Bol.com, Amazon (NL/DE/FR) and Etsy.
+Co-founder of [Beocca](https://beocca.com), a family brand of handcrafted leather bags and accessories that I run together with my sister Lisa. Everything is made by hand from vegetable-tanned full-grain leather. We sell through our own Shopify store, Bol.com, Amazon (NL/DE/FR) and Etsy.
 
-## ⚽️ EXIT Toys
+## EXIT Toys
 
-I work as content manager at [EXIT Toys](https://exittoys.nl), managing product content across roughly 35 European marketplaces through ChannelEngine. Alongside that I work on things like a marketing KPI dashboard, SEO, and the AI chatbot on CM.com HALO.
+Content manager at [EXIT Toys](https://exittoys.nl), managing product content across roughly 35 European marketplaces via ChannelEngine. I also work on an internal marketing KPI dashboard, SEO, and the AI chatbot on CM.com HALO, among other things.
 
-## 🛠️ Stack
+## Stack
 
-`Next.js` · `TypeScript` · `Python` · `PostgreSQL` · `Vercel` · `GitHub Actions` · `Shopify Liquid` · `Ollama` · `Swift` · `HTML`
-
-## 🌐 Find me here
+`Next.js` · `TypeScript` · `Python` · `PostgreSQL` · `Vercel` · `GitHub Actions` · `Shopify Liquid` · `Ollama` · `Swift`
 
 [![Beocca](https://img.shields.io/badge/Shop-beocca.com-B79A6A?style=for-the-badge)](https://beocca.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sven--dijk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sven-dijk)
@@ -46,4 +42,4 @@ I work as content manager at [EXIT Toys](https://exittoys.nl), managing product 
 
 ---
 
-<sub>📍 Doetinchem, NL · 🎓 IBA @ Radboud · 🎒Eigenaar @ [Beocca](https://beocca.com) · ⚽️ contentbeheerder webshop @ [EXIT Toys](https://exittoys.nl) / Dutchtoysgroup</sub>
+<sub>📍 Doetinchem, NL · 🎓 IBA @ Radboud · 🎒 co-owner @ [Beocca](https://beocca.com) · ⚽️ Content manager @ [EXIT Toys](https://exittoys.nl) / Dutch Toys Group</sub>
