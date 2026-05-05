@@ -8,7 +8,7 @@ Mede-eigenaar van [Beocca](https://beocca.com), een familiemerk in handgemaakte 
 
 ## EXIT Toys
 
-Content manager bij [EXIT Toys](https://exittoys.nl), waar ik de productcontent beheer over circa 35 Europese marketplaces via ChannelEngine. Daarnaast werk ik onder andere aan een intern marketing KPI dashboard, SEO, en de AI chatbot op CM.com HALO.
+Content manager bij [EXIT Toys](https://exittoys.nl), waar ik de productcontent beheer over circa 35 Europese marketplaces via ChannelEngine. Daarnaast werk ik onder andere aan een intern marketing KPI dashboard, SEO, en de AI chatbot.
 
 ## Stack
 
@@ -30,7 +30,7 @@ Co-founder of [Beocca](https://beocca.com), a family brand of handcrafted leathe
 
 ## EXIT Toys
 
-Content manager at [EXIT Toys](https://exittoys.nl), managing product content across roughly 35 European marketplaces via ChannelEngine. I also work on an internal marketing KPI dashboard, SEO, and the AI chatbot on CM.com HALO, among other things.
+Content manager at [EXIT Toys](https://exittoys.nl), managing product content across roughly 35 European marketplaces via ChannelEngine. I also work on an internal marketing KPI dashboard, SEO, and the AI chatbot on among other things.
 
 ## Stack
 
