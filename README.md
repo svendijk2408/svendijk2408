@@ -16,7 +16,7 @@ Content manager bij [EXIT Toys](https://exittoys.nl), waar ik de productcontent 
 
 [![Beocca](https://img.shields.io/badge/Shop-beocca.com-B79A6A?style=for-the-badge)](https://beocca.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sven--dijk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sven-dijk)
-[![Instagram](https://img.shields.io/badge/Instagram-@svendijk2408-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/svendijk2408)
+[![Instagram](https://img.shields.io/badge/Instagram-@svendijk_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/svendijk_)
 
 ---
 
